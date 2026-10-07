@@ -1,0 +1,19 @@
+{
+  "lookback_steps": 144,
+  "horizon_hours": [
+    24
+  ],
+  "train_fraction": 0.7,
+  "validation_fraction": 0.15,
+  "seeds": [
+    42,
+    43,
+    44
+  ],
+  "hidden_size": 32,
+  "learning_rate": 0.001,
+  "batch_size": 64,
+  "epochs": 100,
+  "patience": 10,
+  "minimum_samples_per_split": 144
+}

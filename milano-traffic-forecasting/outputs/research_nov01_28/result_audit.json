@@ -1,0 +1,8 @@
+{
+  "gru_prediction_files_checked": 30,
+  "persistence_horizons_checked": 5,
+  "identical_targets_across_models_and_seeds": true,
+  "direct_horizon_alignment": true,
+  "actual_values_match_frozen_series": true,
+  "all_saved_metrics_recomputed_and_matched": true
+}

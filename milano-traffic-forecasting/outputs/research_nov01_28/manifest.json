@@ -1,0 +1,43 @@
+{
+  "started_utc": "2026-09-29T03:20:06.653159+00:00",
+  "square_id": 1,
+  "period_local": [
+    "2013-11-01",
+    "2013-11-28"
+  ],
+  "config": {
+    "lookback_steps": 144,
+    "horizon_hours": [
+      1,
+      3,
+      6,
+      12,
+      24
+    ],
+    "train_fraction": 0.7,
+    "validation_fraction": 0.15,
+    "seeds": [
+      42,
+      43,
+      44
+    ],
+    "hidden_size": 32,
+    "learning_rate": 0.001,
+    "batch_size": 64,
+    "epochs": 100,
+    "patience": 10,
+    "minimum_samples_per_split": 144
+  },
+  "execution": "3 independent CPU processes maximum; horizon partitions only",
+  "series_sha256": "f46b09ddc532d159ab48ae609675e853e793979f42b6fc23c547115d90136a70",
+  "status": "complete",
+  "completed_horizons": [
+    6,
+    1,
+    3,
+    24,
+    12
+  ],
+  "finished_utc": "2026-09-29T03:28:43.731615+00:00",
+  "elapsed_seconds": 517.0619999999999
+}

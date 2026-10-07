@@ -1,0 +1,408 @@
+{
+  "square_id": 1,
+  "delimiter": "TAB",
+  "header": false,
+  "columns": [
+    "square_id",
+    "timestamp_ms",
+    "country_code",
+    "sms_in",
+    "sms_out",
+    "call_in",
+    "call_out",
+    "internet"
+  ],
+  "files": [
+    {
+      "path": "PROJECT_ROOT\\raw\\sms-call-internet-mi-2013-11-02.txt",
+      "bytes": 315164060,
+      "sha256": "4dfee8f5d00d0a06291ce8630234cedee901e597af5d177eecbeb750b48e433f",
+      "md5": "d90f3512c4f278f78d875fb49fcb7191",
+      "rows": 4745086
+    },
+    {
+      "path": "PROJECT_ROOT\\raw\\sms-call-internet-mi-2013-11-03.txt",
+      "bytes": 313058344,
+      "sha256": "9e1005bc6208c7197ab49eb190ccd92241ef32c46749c76b46734cf04a94f49d",
+      "md5": "71bde0827182bb45ce6f4c708fe6b42e",
+      "rows": 4722579
+    },
+    {
+      "path": "PROJECT_ROOT\\raw\\sms-call-internet-mi-2013-11-04.txt",
+      "bytes": 361097689,
+      "sha256": "288b8d6b57abdc2b08d94d01646e91bde311b4bf4fe9dc8fbb52cfc5f273e320",
+      "md5": "151f85ab92fc0fea449ff19cb7e50a0a",
+      "rows": 5639488
+    },
+    {
+      "path": "PROJECT_ROOT\\raw\\sms-call-internet-mi-2013-11-05.txt",
+      "bytes": 372894401,
+      "sha256": "b7d661374710d6c8dcf8a220b7ecbd4ece68b07aedf93d75fe477b59aa0843bf",
+      "md5": "f8f22dfdce95bf66d6fa9f699afbdf5e",
+      "rows": 5874140
+    },
+    {
+      "path": "PROJECT_ROOT\\raw\\sms-call-internet-mi-2013-11-06.txt",
+      "bytes": 374625924,
+      "sha256": "8975004bc46643dc2f15e9a510471fdcf16c676ee8af217772cd65250bb254c9",
+      "md5": "1c4e7de6a559357560927796b5c63c06",
+      "rows": 5912097
+    },
+    {
+      "path": "PROJECT_ROOT\\raw\\sms-call-internet-mi-2013-11-07.txt",
+      "bytes": 373036285,
+      "sha256": "68825035291791d32da776bb06d75f721173b5a03beab79b730961fe40d80959",
+      "md5": "dc0fac4c7fccb4c3328a77f450230c5c",
+      "rows": 5886883
+    },
+    {
+      "path": "PROJECT_ROOT\\raw\\sms-call-internet-mi-2013-11-08.txt",
+      "bytes": 376123111,
+      "sha256": "748da75c30e19ab02f8fb19ba1a410020ce4446cfa1a19945fd0638c5ff9fdc6",
+      "md5": "e2c02fde5673256145b29eb73321ca12",
+      "rows": 5918856
+    },
+    {
+      "path": "PROJECT_ROOT\\raw\\sms-call-internet-mi-2013-11-09.txt",
+      "bytes": 332440742,
+      "sha256": "2b7b17d94aa0dbb08eda59bcfecd670fe8ce236b39c8bc6d9cbe6319cb208319",
+      "md5": "ceee41ef748750475d57f16770b0abe0",
+      "rows": 5052416
+    },
+    {
+      "path": "PROJECT_ROOT\\raw\\sms-call-internet-mi-2013-11-10.txt",
+      "bytes": 314441422,
+      "sha256": "87ddc593a211b89d74640788ca9c6c18685a1a95cd13d9926c5e312155ed4fc5",
+      "md5": "4b7a506876b06565272af93048aa54b8",
+      "rows": 4731582
+    },
+    {
+      "path": "PROJECT_ROOT\\raw\\sms-call-internet-mi-2013-11-11.txt",
+      "bytes": 351945243,
+      "sha256": "e4dca73a1739c2f716b305fd77c693d812c9be65917ca8c67ab06adeb5c34835",
+      "md5": "748eee94e1924f95d323f3df1dd6f009",
+      "rows": 5478993
+    },
+    {
+      "path": "PROJECT_ROOT\\raw\\sms-call-internet-mi-2013-11-12.txt",
+      "bytes": 358347374,
+      "sha256": "3da2896da32ceea1ec9cf5417ccc9a53d32e28748cda6747c61d1910eb1ab149",
+      "md5": "e70f999b213bfe38b36c956cf0d1daf4",
+      "rows": 5597591
+    },
+    {
+      "path": "PROJECT_ROOT\\raw\\sms-call-internet-mi-2013-11-13.txt",
+      "bytes": 362539357,
+      "sha256": "f4be149cae1a43bc84183a7efd0e588cc33d3d43542386d8c7c6cb6dcbeb18a2",
+      "md5": "f9d8e9e15d3b0ed82792dd9fb77f1ec2",
+      "rows": 5689517
+    },
+    {
+      "path": "PROJECT_ROOT\\raw\\sms-call-internet-mi-2013-11-14.txt",
+      "bytes": 363552765,
+      "sha256": "f27409127a230b52ec79aad694784c437fb0c43447e4c5059ada919de4fbd90c",
+      "md5": "7b8e81a994c7c3f0d17338e42be76944",
+      "rows": 5703373
+    },
+    {
+      "path": "PROJECT_ROOT\\raw\\sms-call-internet-mi-2013-11-15.txt",
+      "bytes": 364814415,
+      "sha256": "8fbf7ff2e9044a2483e23132f1b000d93886242a1bca7a639ec7b8e59b709db3",
+      "md5": "51a465a1b72ec28cfa34cd27ecd40cb2",
+      "rows": 5708802
+    },
+    {
+      "path": "PROJECT_ROOT\\raw\\sms-call-internet-mi-2013-11-16.txt",
+      "bytes": 321048116,
+      "sha256": "bfde4992330c2d3b657864fe16024a196c722a1c54fd1c5688abab4f2fad20cd",
+      "md5": "f319979979e14164667d7606a3d11c57",
+      "rows": 4847779
+    },
+    {
+      "path": "PROJECT_ROOT\\raw\\sms-call-internet-mi-2013-11-17.txt",
+      "bytes": 307197776,
+      "sha256": "07b9e576416f8df6aae8d35721c9d47af462d9c370b5bf3d99763f7ce838ecb3",
+      "md5": "c66a2d9873ef54812a4a17444cba7451",
+      "rows": 4611954
+    },
+    {
+      "path": "PROJECT_ROOT\\raw\\sms-call-internet-mi-2013-11-18.txt",
+      "bytes": 348325345,
+      "sha256": "5c1a7687dca1e64e70bcfea88d1f06adf5d846aad47b21f822999955f334bd19",
+      "md5": "3455490d465be13d6a107e5982672008",
+      "rows": 5417835
+    },
+    {
+      "path": "PROJECT_ROOT\\raw\\sms-call-internet-mi-2013-11-19.txt",
+      "bytes": 356545029,
+      "sha256": "5e6682d76699e8a11ba336ddb979ef22818bcd78ff4b3847de8af353661f43fa",
+      "md5": "f9d64c99a62e560e754dbe40c0510786",
+      "rows": 5577668
+    },
+    {
+      "path": "PROJECT_ROOT\\raw\\sms-call-internet-mi-2013-11-20.txt",
+      "bytes": 360144384,
+      "sha256": "34ad6e301d6bfb4eaa09428b634565918c56c2d77fdfe4991bf791c60324f73d",
+      "md5": "ea4904a581e9a829cebf2fdbaf679f25",
+      "rows": 5643712
+    },
+    {
+      "path": "PROJECT_ROOT\\raw\\sms-call-internet-mi-2013-11-21.txt",
+      "bytes": 358700264,
+      "sha256": "069c8771eab66f24093519a8935197859362500cb8ece422ce6a52c23f5e5f27",
+      "md5": "d2943e3d4f31a5d8f7575796d3b47368",
+      "rows": 5616011
+    },
+    {
+      "path": "PROJECT_ROOT\\raw\\sms-call-internet-mi-2013-11-22.txt",
+      "bytes": 360316105,
+      "sha256": "8c409b4b1b2a9772b692db69ac2d55ea9b6fe797e590f76133295dcb7cf0104f",
+      "md5": "07a02618f46af85618247104bc46e974",
+      "rows": 5634579
+    },
+    {
+      "path": "PROJECT_ROOT\\raw\\sms-call-internet-mi-2013-11-23.txt",
+      "bytes": 317406788,
+      "sha256": "d3b8a541e5599ed9a3ad2fcdc999f5fa5afcc5b9cba1847084de657de4df74f5",
+      "md5": "c0f44412f4d49cd7fa0edfff31ecd887",
+      "rows": 4779119
+    },
+    {
+      "path": "PROJECT_ROOT\\raw\\sms-call-internet-mi-2013-11-24.txt",
+      "bytes": 303987293,
+      "sha256": "249a1b2ca66f9cbd0c0676ff1fff4adcaa7a1bacc9e0047a8b48350fd735bb8a",
+      "md5": "8bffcfdffdfa73a18c9bcc64bf1de2b5",
+      "rows": 4548405
+    },
+    {
+      "path": "PROJECT_ROOT\\raw\\sms-call-internet-mi-2013-11-25.txt",
+      "bytes": 345276784,
+      "sha256": "02711f729f4e34f072579f3253abcbfdad4912a5212672d8bcba1c68d1d73822",
+      "md5": "9865c11cbfc3c907f8bce2eaa10f448c",
+      "rows": 5365586
+    },
+    {
+      "path": "PROJECT_ROOT\\raw\\sms-call-internet-mi-2013-11-26.txt",
+      "bytes": 352033486,
+      "sha256": "3a647bdf1994aa55f2c277b14c2b1147bd24161b5b3b69c3b17b0294e62330ef",
+      "md5": "9a878cf4c279094446e5fb8f009f99bc",
+      "rows": 5491322
+    },
+    {
+      "path": "PROJECT_ROOT\\raw\\sms-call-internet-mi-2013-11-27.txt",
+      "bytes": 349777785,
+      "sha256": "0812c0d6ad7f6361cbed8b7983fc59e9d267dc34c9c852abdf45759366bf2df1",
+      "md5": "a7d1abf21b6b11aa1725588d16d95c1f",
+      "rows": 5448926
+    },
+    {
+      "path": "PROJECT_ROOT\\raw\\sms-call-internet-mi-2013-11-28.txt",
+      "bytes": 350899256,
+      "sha256": "6ef7c469eba8416c41243e95093e8804c0f99bda0d66be24e7234f1514a872af",
+      "md5": "b47f3fa389889b9c804039c75968d85d",
+      "rows": 5472300
+    },
+    {
+      "path": "raw/sms-call-internet-mi-2013-11-01.txt",
+      "bytes": 322874887,
+      "sha256": "16fa6afbcc38a1fc394821bb53291ce6e861d6d8b07c9ee80bf9b7de1d539a06",
+      "md5": "658c49f8e3c7910bd3bb2bafbf62cdce",
+      "rows": 4842625
+    }
+  ],
+  "raw_rows_all_squares": 149959224,
+  "blank_activity_fields_all_squares": {
+    "sms_out": 104045690,
+    "call_in": 104312945,
+    "call_out": 86282329,
+    "internet": 74073816,
+    "sms_in": 70218545
+  },
+  "selected_rows": 10990,
+  "selected_duplicate_keys": 0,
+  "duplicate_check_scope": "selected square only",
+  "selected_internet_blank_rows": 5332,
+  "selected_country_codes": [
+    0,
+    1,
+    7,
+    20,
+    27,
+    30,
+    31,
+    32,
+    33,
+    34,
+    36,
+    39,
+    40,
+    41,
+    43,
+    44,
+    45,
+    46,
+    48,
+    49,
+    51,
+    52,
+    53,
+    54,
+    55,
+    61,
+    63,
+    66,
+    81,
+    82,
+    86,
+    90,
+    91,
+    92,
+    93,
+    212,
+    213,
+    216,
+    218,
+    221,
+    226,
+    229,
+    230,
+    233,
+    237,
+    238,
+    240,
+    242,
+    251,
+    254,
+    255,
+    261,
+    351,
+    352,
+    353,
+    355,
+    357,
+    359,
+    370,
+    372,
+    373,
+    375,
+    377,
+    380,
+    381,
+    385,
+    386,
+    387,
+    389,
+    420,
+    421,
+    506,
+    593,
+    855,
+    880,
+    965,
+    971,
+    972,
+    1204,
+    1829,
+    1905,
+    7777,
+    88239,
+    97259
+  ],
+  "expected_slots": 4032,
+  "absent_slots": 0,
+  "present_but_all_internet_blank_slots": 0,
+  "missing_internet_slots": 0,
+  "zero_internet_slots": 0,
+  "start_local": "2013-11-01 00:00:00+01:00",
+  "end_local": "2013-11-28 23:50:00+01:00",
+  "internet_summary": {
+    "count": 4032.0,
+    "mean": 10.260858193033735,
+    "std": 3.6959027348408298,
+    "min": 4.068095896582353,
+    "25%": 7.526479201877694,
+    "50%": 9.757310112247566,
+    "75%": 12.772831143827068,
+    "max": 41.09670169051751
+  },
+  "missing_policy": "sum nonblank country entries; all blank/absent -> NaN; no imputation",
+  "official_md5_all_match": true,
+  "duplicate_file_content": false,
+  "interval_minutes": [
+    10.0
+  ],
+  "daily_slots": {
+    "2013-11-01": 144,
+    "2013-11-02": 144,
+    "2013-11-03": 144,
+    "2013-11-04": 144,
+    "2013-11-05": 144,
+    "2013-11-06": 144,
+    "2013-11-07": 144,
+    "2013-11-08": 144,
+    "2013-11-09": 144,
+    "2013-11-10": 144,
+    "2013-11-11": 144,
+    "2013-11-12": 144,
+    "2013-11-13": 144,
+    "2013-11-14": 144,
+    "2013-11-15": 144,
+    "2013-11-16": 144,
+    "2013-11-17": 144,
+    "2013-11-18": 144,
+    "2013-11-19": 144,
+    "2013-11-20": 144,
+    "2013-11-21": 144,
+    "2013-11-22": 144,
+    "2013-11-23": 144,
+    "2013-11-24": 144,
+    "2013-11-25": 144,
+    "2013-11-26": 144,
+    "2013-11-27": 144,
+    "2013-11-28": 144
+  },
+  "nonfinite_observed_values": 0,
+  "iqr_outlier_count_not_removed": 40,
+  "split_rows": {
+    "train": 2822,
+    "validation": 605,
+    "test": 605
+  },
+  "split_boundaries_local": {
+    "validation_start": "2013-11-20 14:20:00+01:00",
+    "test_start": "2013-11-24 19:10:00+01:00"
+  },
+  "train_scaler": {
+    "mean": 10.262064399752887,
+    "std": 3.6625687071253274,
+    "fit_stop_exclusive": 2822
+  },
+  "sample_counts": {
+    "1": {
+      "train": 2673,
+      "validation": 599,
+      "test": 599
+    },
+    "3": {
+      "train": 2661,
+      "validation": 587,
+      "test": 587
+    },
+    "6": {
+      "train": 2643,
+      "validation": 569,
+      "test": 569
+    },
+    "12": {
+      "train": 2607,
+      "validation": 533,
+      "test": 533
+    },
+    "24": {
+      "train": 2535,
+      "validation": 461,
+      "test": 461
+    }
+  },
+  "training_blockers": []
+}
